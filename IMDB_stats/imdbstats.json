@@ -1,0 +1,2962 @@
+[
+ {
+  "name": "The Shawshank Redemption",
+  "numberOfRatings": 2250045,
+  "rating": 9.3,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 28699976,
+  "budget": 25000000
+ },
+ {
+  "name": "The Godfather",
+  "numberOfRatings": 1552611,
+  "rating": 9.2,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 134966411,
+  "budget": 6000000
+ },
+ {
+  "name": "The Godfather: Part II",
+  "numberOfRatings": 1085159,
+  "rating": 9.0,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 47834595,
+  "budget": 13000000
+ },
+ {
+  "name": "The Dark Knight",
+  "numberOfRatings": 2217840,
+  "rating": 9.0,
+  "genre": [
+   "Action",
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 535234033,
+  "budget": 185000000
+ },
+ {
+  "name": "12 Angry Men",
+  "numberOfRatings": 658748,
+  "rating": 8.9,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 0,
+  "budget": 350000
+ },
+ {
+  "name": "Schindler's List",
+  "numberOfRatings": 1169196,
+  "rating": 8.9,
+  "genre": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "grossUSA": 96898818,
+  "budget": 22000000
+ },
+ {
+  "name": "The Lord of the Rings: The Return of the King",
+  "numberOfRatings": 1589093,
+  "rating": 8.9,
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Fantasy"
+  ],
+  "grossUSA": 377845905,
+  "budget": 94000000
+ },
+ {
+  "name": "Pulp Fiction",
+  "numberOfRatings": 1761596,
+  "rating": 8.9,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 107928762,
+  "budget": 8000000
+ },
+ {
+  "name": "Il buono, il brutto, il cattivo",
+  "numberOfRatings": 664533,
+  "rating": 8.8,
+  "genre": [
+   "Western"
+  ],
+  "grossUSA": 25100000,
+  "budget": 1200000
+ },
+ {
+  "name": "The Lord of the Rings: The Fellowship of the Ring",
+  "numberOfRatings": 1603042,
+  "rating": 8.8,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Drama",
+   "Fantasy"
+  ],
+  "grossUSA": 315544750,
+  "budget": 93000000
+ },
+ {
+  "name": "Fight Club",
+  "numberOfRatings": 1788912,
+  "rating": 8.8,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 37030102,
+  "budget": 63000000
+ },
+ {
+  "name": "Forrest Gump",
+  "numberOfRatings": 1734724,
+  "rating": 8.8,
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "grossUSA": 330455270,
+  "budget": 55000000
+ },
+ {
+  "name": "Inception",
+  "numberOfRatings": 1972856,
+  "rating": 8.8,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "grossUSA": 292576195,
+  "budget": 160000000
+ },
+ {
+  "name": "Star Wars: Episode V - The Empire Strikes Back",
+  "numberOfRatings": 1121496,
+  "rating": 8.7,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Fantasy",
+   "Sci-Fi"
+  ],
+  "grossUSA": 290271960,
+  "budget": 18000000
+ },
+ {
+  "name": "The Lord of the Rings: The Two Towers",
+  "numberOfRatings": 1435703,
+  "rating": 8.7,
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Fantasy"
+  ],
+  "grossUSA": 342551365,
+  "budget": 94000000
+ },
+ {
+  "name": "The Matrix",
+  "numberOfRatings": 1613987,
+  "rating": 8.7,
+  "genre": [
+   "Action",
+   "Sci-Fi"
+  ],
+  "grossUSA": 171479930,
+  "budget": 63000000
+ },
+ {
+  "name": "Goodfellas",
+  "numberOfRatings": 978900,
+  "rating": 8.7,
+  "genre": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 46836214,
+  "budget": 25000000
+ },
+ {
+  "name": "One Flew Over the Cuckoo's Nest",
+  "numberOfRatings": 882123,
+  "rating": 8.7,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 108981275,
+  "budget": 3000000
+ },
+ {
+  "name": "Shichinin no samurai",
+  "numberOfRatings": 304001,
+  "rating": 8.6,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Drama"
+  ],
+  "grossUSA": 318649,
+  "budget": 125000000
+ },
+ {
+  "name": "Se7en",
+  "numberOfRatings": 1385025,
+  "rating": 8.6,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 100125643,
+  "budget": 33000000
+ },
+ {
+  "name": "La vita \u00e8 bella",
+  "numberOfRatings": 598227,
+  "rating": 8.6,
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance",
+   "War"
+  ],
+  "grossUSA": 57563264,
+  "budget": 20000000
+ },
+ {
+  "name": "Cidade de Deus",
+  "numberOfRatings": 680134,
+  "rating": 8.6,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 7564459,
+  "budget": 3300000
+ },
+ {
+  "name": "The Silence of the Lambs",
+  "numberOfRatings": 1218331,
+  "rating": 8.6,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 130742922,
+  "budget": 19000000
+ },
+ {
+  "name": "It's a Wonderful Life",
+  "numberOfRatings": 384060,
+  "rating": 8.6,
+  "genre": [
+   "Drama",
+   "Family",
+   "Fantasy"
+  ],
+  "grossUSA": 0,
+  "budget": 3180000
+ },
+ {
+  "name": "Star Wars",
+  "numberOfRatings": 1193894,
+  "rating": 8.6,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Fantasy",
+   "Sci-Fi"
+  ],
+  "grossUSA": 460998507,
+  "budget": 11000000
+ },
+ {
+  "name": "Saving Private Ryan",
+  "numberOfRatings": 1189927,
+  "rating": 8.6,
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 217049603,
+  "budget": 70000000
+ },
+ {
+  "name": "Gisaengchung",
+  "numberOfRatings": 425908,
+  "rating": 8.6,
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 53369749,
+  "budget": 11400000
+ },
+ {
+  "name": "Sen to Chihiro no kamikakushi",
+  "numberOfRatings": 614695,
+  "rating": 8.6,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Family",
+   "Fantasy",
+   "Mystery"
+  ],
+  "grossUSA": 13750644,
+  "budget": 19000000
+ },
+ {
+  "name": "The Green Mile",
+  "numberOfRatings": 1097133,
+  "rating": 8.6,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Fantasy",
+   "Mystery"
+  ],
+  "grossUSA": 136801374,
+  "budget": 60000000
+ },
+ {
+  "name": "Interstellar",
+  "numberOfRatings": 1423569,
+  "rating": 8.6,
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "grossUSA": 188020017,
+  "budget": 165000000
+ },
+ {
+  "name": "L\u00e9on",
+  "numberOfRatings": 995893,
+  "rating": 8.5,
+  "genre": [
+   "Action",
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 19501238,
+  "budget": 115000000
+ },
+ {
+  "name": "The Usual Suspects",
+  "numberOfRatings": 958799,
+  "rating": 8.5,
+  "genre": [
+   "Crime",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 23341568,
+  "budget": 6000000
+ },
+ {
+  "name": "Seppuku",
+  "numberOfRatings": 34846,
+  "rating": 8.7,
+  "genre": [
+   "Action",
+   "Drama",
+   "History"
+  ],
+  "grossUSA": 0,
+  "budget": 0
+ },
+ {
+  "name": "The Lion King",
+  "numberOfRatings": 906963,
+  "rating": 8.5,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Drama",
+   "Family",
+   "Musical"
+  ],
+  "grossUSA": 422783777,
+  "budget": 45000000
+ },
+ {
+  "name": "The Pianist",
+  "numberOfRatings": 698568,
+  "rating": 8.5,
+  "genre": [
+   "Biography",
+   "Drama",
+   "Music",
+   "War"
+  ],
+  "grossUSA": 32572577,
+  "budget": 35000000
+ },
+ {
+  "name": "Back to the Future",
+  "numberOfRatings": 1008770,
+  "rating": 8.5,
+  "genre": [
+   "Adventure",
+   "Comedy",
+   "Sci-Fi"
+  ],
+  "grossUSA": 211159762,
+  "budget": 19000000
+ },
+ {
+  "name": "American History X",
+  "numberOfRatings": 1004692,
+  "rating": 8.5,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 6719864,
+  "budget": 20000000
+ },
+ {
+  "name": "Terminator 2: Judgment Day",
+  "numberOfRatings": 965692,
+  "rating": 8.5,
+  "genre": [
+   "Action",
+   "Sci-Fi"
+  ],
+  "grossUSA": 205881154,
+  "budget": 102000000
+ },
+ {
+  "name": "Modern Times",
+  "numberOfRatings": 207938,
+  "rating": 8.5,
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Family",
+   "Romance"
+  ],
+  "grossUSA": 163577,
+  "budget": 1500000
+ },
+ {
+  "name": "Psycho",
+  "numberOfRatings": 578144,
+  "rating": 8.5,
+  "genre": [
+   "Horror",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 32000000,
+  "budget": 806947
+ },
+ {
+  "name": "Gladiator",
+  "numberOfRatings": 1293414,
+  "rating": 8.5,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Drama"
+  ],
+  "grossUSA": 187705427,
+  "budget": 103000000
+ },
+ {
+  "name": "City Lights",
+  "numberOfRatings": 160059,
+  "rating": 8.5,
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "grossUSA": 19181,
+  "budget": 1500000
+ },
+ {
+  "name": "The Departed",
+  "numberOfRatings": 1146710,
+  "rating": 8.5,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 132384315,
+  "budget": 90000000
+ },
+ {
+  "name": "The Intouchables",
+  "numberOfRatings": 728564,
+  "rating": 8.5,
+  "genre": [
+   "Biography",
+   "Comedy",
+   "Drama"
+  ],
+  "grossUSA": 10198820,
+  "budget": 10734999
+ },
+ {
+  "name": "Whiplash",
+  "numberOfRatings": 679642,
+  "rating": 8.5,
+  "genre": [
+   "Drama",
+   "Music"
+  ],
+  "grossUSA": 13092000,
+  "budget": 3300000
+ },
+ {
+  "name": "The Prestige",
+  "numberOfRatings": 1139887,
+  "rating": 8.5,
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "grossUSA": 53089891,
+  "budget": 40000000
+ },
+ {
+  "name": "Once Upon a Time in the West",
+  "numberOfRatings": 290926,
+  "rating": 8.5,
+  "genre": [
+   "Western"
+  ],
+  "grossUSA": 0,
+  "budget": 5000000
+ },
+ {
+  "name": "Hotaru no haka",
+  "numberOfRatings": 220459,
+  "rating": 8.5,
+  "genre": [
+   "Animation",
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 516962,
+  "budget": 3700000
+ },
+ {
+  "name": "Casablanca",
+  "numberOfRatings": 504502,
+  "rating": 8.5,
+  "genre": [
+   "Drama",
+   "Romance",
+   "War"
+  ],
+  "grossUSA": 4108411,
+  "budget": 950000
+ },
+ {
+  "name": "Rear Window",
+  "numberOfRatings": 426941,
+  "rating": 8.4,
+  "genre": [
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 36764313,
+  "budget": 1000000
+ },
+ {
+  "name": "Nuovo Cinema Paradiso",
+  "numberOfRatings": 218977,
+  "rating": 8.5,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 12397210,
+  "budget": 5000000
+ },
+ {
+  "name": "Alien",
+  "numberOfRatings": 759538,
+  "rating": 8.4,
+  "genre": [
+   "Horror",
+   "Sci-Fi"
+  ],
+  "grossUSA": 81765459,
+  "budget": 11000000
+ },
+ {
+  "name": "Apocalypse Now",
+  "numberOfRatings": 583787,
+  "rating": 8.4,
+  "genre": [
+   "Drama",
+   "Mystery",
+   "War"
+  ],
+  "grossUSA": 83471511,
+  "budget": 31500000
+ },
+ {
+  "name": "Joker",
+  "numberOfRatings": 807470,
+  "rating": 8.5,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 335451311,
+  "budget": 55000000
+ },
+ {
+  "name": "Memento",
+  "numberOfRatings": 1086971,
+  "rating": 8.4,
+  "genre": [
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 25544867,
+  "budget": 9000000
+ },
+ {
+  "name": "Raiders of the Lost Ark",
+  "numberOfRatings": 856875,
+  "rating": 8.4,
+  "genre": [
+   "Action",
+   "Adventure"
+  ],
+  "grossUSA": 248159971,
+  "budget": 18000000
+ },
+ {
+  "name": "The Great Dictator",
+  "numberOfRatings": 194635,
+  "rating": 8.4,
+  "genre": [
+   "Comedy",
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 0,
+  "budget": 2000000
+ },
+ {
+  "name": "The Lives of Others",
+  "numberOfRatings": 345508,
+  "rating": 8.4,
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 11286112,
+  "budget": 2000000
+ },
+ {
+  "name": "Django Unchained",
+  "numberOfRatings": 1301793,
+  "rating": 8.4,
+  "genre": [
+   "Drama",
+   "Western"
+  ],
+  "grossUSA": 162805434,
+  "budget": 100000000
+ },
+ {
+  "name": "Paths of Glory",
+  "numberOfRatings": 169858,
+  "rating": 8.4,
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 0,
+  "budget": 935000
+ },
+ {
+  "name": "The Shining",
+  "numberOfRatings": 856537,
+  "rating": 8.4,
+  "genre": [
+   "Drama",
+   "Horror"
+  ],
+  "grossUSA": 45332952,
+  "budget": 19000000
+ },
+ {
+  "name": "Avengers: Infinity War",
+  "numberOfRatings": 779887,
+  "rating": 8.5,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Sci-Fi"
+  ],
+  "grossUSA": 678815482,
+  "budget": 321000000
+ },
+ {
+  "name": "WALL\u00b7E",
+  "numberOfRatings": 964880,
+  "rating": 8.4,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Family",
+   "Sci-Fi"
+  ],
+  "grossUSA": 223808164,
+  "budget": 180000000
+ },
+ {
+  "name": "Sunset Blvd.",
+  "numberOfRatings": 192965,
+  "rating": 8.4,
+  "genre": [
+   "Drama",
+   "Film-Noir"
+  ],
+  "grossUSA": 299645,
+  "budget": 1752000
+ },
+ {
+  "name": "Mononoke-hime",
+  "numberOfRatings": 324324,
+  "rating": 8.4,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Fantasy"
+  ],
+  "grossUSA": 4845631,
+  "budget": 2400000000
+ },
+ {
+  "name": "Spider-Man: Into the Spider-Verse",
+  "numberOfRatings": 321745,
+  "rating": 8.4,
+  "genre": [
+   "Animation",
+   "Action",
+   "Adventure",
+   "Family",
+   "Sci-Fi"
+  ],
+  "grossUSA": 190241310,
+  "budget": 90000000
+ },
+ {
+  "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "numberOfRatings": 436692,
+  "rating": 8.4,
+  "genre": [
+   "Comedy"
+  ],
+  "grossUSA": 9440272,
+  "budget": 1800000
+ },
+ {
+  "name": "Oldeuboi",
+  "numberOfRatings": 494677,
+  "rating": 8.4,
+  "genre": [
+   "Action",
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 707481,
+  "budget": 3000000
+ },
+ {
+  "name": "Witness for the Prosecution",
+  "numberOfRatings": 102365,
+  "rating": 8.4,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 0,
+  "budget": 3000000
+ },
+ {
+  "name": "The Dark Knight Rises",
+  "numberOfRatings": 1466141,
+  "rating": 8.4,
+  "genre": [
+   "Action",
+   "Adventure"
+  ],
+  "grossUSA": 448139099,
+  "budget": 250000000
+ },
+ {
+  "name": "Avengers: Endgame",
+  "numberOfRatings": 727509,
+  "rating": 8.4,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Drama",
+   "Sci-Fi"
+  ],
+  "grossUSA": 858373000,
+  "budget": 356000000
+ },
+ {
+  "name": "Once Upon a Time in America",
+  "numberOfRatings": 298158,
+  "rating": 8.4,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 5321508,
+  "budget": 30000000
+ },
+ {
+  "name": "Aliens",
+  "numberOfRatings": 633227,
+  "rating": 8.3,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "grossUSA": 85160248,
+  "budget": 18500000
+ },
+ {
+  "name": "Kimi no na wa.",
+  "numberOfRatings": 170810,
+  "rating": 8.4,
+  "genre": [
+   "Animation",
+   "Drama",
+   "Fantasy",
+   "Romance"
+  ],
+  "grossUSA": 5017246,
+  "budget": 370000000
+ },
+ {
+  "name": "Coco",
+  "numberOfRatings": 341921,
+  "rating": 8.4,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Family",
+   "Fantasy",
+   "Music",
+   "Mystery"
+  ],
+  "grossUSA": 209726015,
+  "budget": 175000000
+ },
+ {
+  "name": "American Beauty",
+  "numberOfRatings": 1040398,
+  "rating": 8.3,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 130096601,
+  "budget": 15000000
+ },
+ {
+  "name": "Braveheart",
+  "numberOfRatings": 934456,
+  "rating": 8.3,
+  "genre": [
+   "Biography",
+   "Drama",
+   "History",
+   "War"
+  ],
+  "grossUSA": 75609945,
+  "budget": 72000000
+ },
+ {
+  "name": "Das Boot",
+  "numberOfRatings": 223599,
+  "rating": 8.3,
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Thriller",
+   "War"
+  ],
+  "grossUSA": 11487676,
+  "budget": 32000000
+ },
+ {
+  "name": "3 Idiots",
+  "numberOfRatings": 326468,
+  "rating": 8.4,
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "grossUSA": 6532874,
+  "budget": 550000000
+ },
+ {
+  "name": "Toy Story",
+  "numberOfRatings": 855397,
+  "rating": 8.3,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy",
+   "Family",
+   "Fantasy"
+  ],
+  "grossUSA": 222498679,
+  "budget": 30000000
+ },
+ {
+  "name": "Tengoku to jigoku",
+  "numberOfRatings": 29531,
+  "rating": 8.5,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 46808,
+  "budget": 0
+ },
+ {
+  "name": "Taare Zameen Par",
+  "numberOfRatings": 158194,
+  "rating": 8.4,
+  "genre": [
+   "Drama",
+   "Family"
+  ],
+  "grossUSA": 1223869,
+  "budget": 0
+ },
+ {
+  "name": "Amadeus",
+  "numberOfRatings": 357358,
+  "rating": 8.3,
+  "genre": [
+   "Biography",
+   "Drama",
+   "History",
+   "Music"
+  ],
+  "grossUSA": 51973029,
+  "budget": 18000000
+ },
+ {
+  "name": "Star Wars: Episode VI - Return of the Jedi",
+  "numberOfRatings": 919616,
+  "rating": 8.3,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Fantasy",
+   "Sci-Fi"
+  ],
+  "grossUSA": 309306177,
+  "budget": 32500000
+ },
+ {
+  "name": "Reservoir Dogs",
+  "numberOfRatings": 886968,
+  "rating": 8.3,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 2832029,
+  "budget": 1200000
+ },
+ {
+  "name": "Inglourious Basterds",
+  "numberOfRatings": 1214603,
+  "rating": 8.3,
+  "genre": [
+   "Adventure",
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 120540719,
+  "budget": 70000000
+ },
+ {
+  "name": "Good Will Hunting",
+  "numberOfRatings": 826905,
+  "rating": 8.3,
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "grossUSA": 138433435,
+  "budget": 10000000
+ },
+ {
+  "name": "1917",
+  "numberOfRatings": 326188,
+  "rating": 8.3,
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 159227644,
+  "budget": 95000000
+ },
+ {
+  "name": "2001: A Space Odyssey",
+  "numberOfRatings": 580444,
+  "rating": 8.3,
+  "genre": [
+   "Adventure",
+   "Sci-Fi"
+  ],
+  "grossUSA": 60541301,
+  "budget": 12000000
+ },
+ {
+  "name": "Vertigo",
+  "numberOfRatings": 346666,
+  "rating": 8.3,
+  "genre": [
+   "Mystery",
+   "Romance",
+   "Thriller"
+  ],
+  "grossUSA": 7705225,
+  "budget": 2479000
+ },
+ {
+  "name": "Requiem for a Dream",
+  "numberOfRatings": 741099,
+  "rating": 8.3,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 3635482,
+  "budget": 4500000
+ },
+ {
+  "name": "Capharna\u00fcm",
+  "numberOfRatings": 48779,
+  "rating": 8.4,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 1661096,
+  "budget": 4000000
+ },
+ {
+  "name": "M - Eine Stadt sucht einen M\u00f6rder",
+  "numberOfRatings": 137326,
+  "rating": 8.3,
+  "genre": [
+   "Crime",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 35566,
+  "budget": 0
+ },
+ {
+  "name": "Anand",
+  "numberOfRatings": 26528,
+  "rating": 8.6,
+  "genre": [
+   "Drama",
+   "Musical"
+  ],
+  "grossUSA": 0,
+  "budget": 3000000
+ },
+ {
+  "name": "Dangal",
+  "numberOfRatings": 143521,
+  "rating": 8.4,
+  "genre": [
+   "Action",
+   "Biography",
+   "Drama",
+   "Sport"
+  ],
+  "grossUSA": 12391761,
+  "budget": 700000000
+ },
+ {
+  "name": "Eternal Sunshine of the Spotless Mind",
+  "numberOfRatings": 879407,
+  "rating": 8.3,
+  "genre": [
+   "Drama",
+   "Romance",
+   "Sci-Fi"
+  ],
+  "grossUSA": 34400301,
+  "budget": 20000000
+ },
+ {
+  "name": "Citizen Kane",
+  "numberOfRatings": 384813,
+  "rating": 8.3,
+  "genre": [
+   "Drama",
+   "Mystery"
+  ],
+  "grossUSA": 1585634,
+  "budget": 839727
+ },
+ {
+  "name": "Jagten",
+  "numberOfRatings": 265100,
+  "rating": 8.3,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 613308,
+  "budget": 3800000
+ },
+ {
+  "name": "Full Metal Jacket",
+  "numberOfRatings": 650490,
+  "rating": 8.3,
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 46357676,
+  "budget": 30000000
+ },
+ {
+  "name": "Ladri di biciclette",
+  "numberOfRatings": 139080,
+  "rating": 8.3,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 371111,
+  "budget": 133000
+ },
+ {
+  "name": "North by Northwest",
+  "numberOfRatings": 288175,
+  "rating": 8.3,
+  "genre": [
+   "Adventure",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 0,
+  "budget": 3101000
+ },
+ {
+  "name": "A Clockwork Orange",
+  "numberOfRatings": 732712,
+  "rating": 8.3,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Sci-Fi"
+  ],
+  "grossUSA": 26589355,
+  "budget": 2200000
+ },
+ {
+  "name": "The Kid",
+  "numberOfRatings": 107072,
+  "rating": 8.3,
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Family"
+  ],
+  "grossUSA": 0,
+  "budget": 250000
+ },
+ {
+  "name": "Snatch",
+  "numberOfRatings": 759573,
+  "rating": 8.3,
+  "genre": [
+   "Comedy",
+   "Crime"
+  ],
+  "grossUSA": 30328156,
+  "budget": 6000000
+ },
+ {
+  "name": "Singin' in the Rain",
+  "numberOfRatings": 210432,
+  "rating": 8.3,
+  "genre": [
+   "Comedy",
+   "Musical",
+   "Romance"
+  ],
+  "grossUSA": 1826108,
+  "budget": 2540800
+ },
+ {
+  "name": "Scarface",
+  "numberOfRatings": 712229,
+  "rating": 8.3,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 45408703,
+  "budget": 25000000
+ },
+ {
+  "name": "Taxi Driver",
+  "numberOfRatings": 693685,
+  "rating": 8.3,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 28262574,
+  "budget": 1300000
+ },
+ {
+  "name": "Am\u00e9lie",
+  "numberOfRatings": 684952,
+  "rating": 8.3,
+  "genre": [
+   "Comedy",
+   "Romance"
+  ],
+  "grossUSA": 33225499,
+  "budget": 10000000
+ },
+ {
+  "name": "Lawrence of Arabia",
+  "numberOfRatings": 258197,
+  "rating": 8.3,
+  "genre": [
+   "Adventure",
+   "Biography",
+   "Drama",
+   "History",
+   "War"
+  ],
+  "grossUSA": 45306425,
+  "budget": 15000000
+ },
+ {
+  "name": "Toy Story 3",
+  "numberOfRatings": 732725,
+  "rating": 8.3,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy",
+   "Family",
+   "Fantasy"
+  ],
+  "grossUSA": 415004880,
+  "budget": 200000000
+ },
+ {
+  "name": "The Sting",
+  "numberOfRatings": 233741,
+  "rating": 8.3,
+  "genre": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 156000000,
+  "budget": 5500000
+ },
+ {
+  "name": "Ikiru",
+  "numberOfRatings": 64000,
+  "rating": 8.3,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 60239,
+  "budget": 0
+ },
+ {
+  "name": "Metropolis",
+  "numberOfRatings": 154236,
+  "rating": 8.3,
+  "genre": [
+   "Drama",
+   "Sci-Fi"
+  ],
+  "grossUSA": 1236166,
+  "budget": 6000000
+ },
+ {
+  "name": "Jodaeiye Nader az Simin",
+  "numberOfRatings": 211608,
+  "rating": 8.3,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 7099055,
+  "budget": 500000
+ },
+ {
+  "name": "Per qualche dollaro in pi\u00f9",
+  "numberOfRatings": 222626,
+  "rating": 8.3,
+  "genre": [
+   "Western"
+  ],
+  "grossUSA": 15000000,
+  "budget": 600000
+ },
+ {
+  "name": "Double Indemnity",
+  "numberOfRatings": 137637,
+  "rating": 8.3,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Film-Noir",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 0,
+  "budget": 927262
+ },
+ {
+  "name": "The Apartment",
+  "numberOfRatings": 156386,
+  "rating": 8.3,
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "grossUSA": 0,
+  "budget": 3000000
+ },
+ {
+  "name": "Incendies",
+  "numberOfRatings": 139234,
+  "rating": 8.3,
+  "genre": [
+   "Drama",
+   "Mystery",
+   "War"
+  ],
+  "grossUSA": 2071334,
+  "budget": 6800000
+ },
+ {
+  "name": "To Kill a Mockingbird",
+  "numberOfRatings": 286292,
+  "rating": 8.2,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 592237,
+  "budget": 2000000
+ },
+ {
+  "name": "Indiana Jones and the Last Crusade",
+  "numberOfRatings": 670172,
+  "rating": 8.2,
+  "genre": [
+   "Action",
+   "Adventure"
+  ],
+  "grossUSA": 197171806,
+  "budget": 48000000
+ },
+ {
+  "name": "Up",
+  "numberOfRatings": 902095,
+  "rating": 8.2,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy",
+   "Family"
+  ],
+  "grossUSA": 293004164,
+  "budget": 175000000
+ },
+ {
+  "name": "L.A. Confidential",
+  "numberOfRatings": 516942,
+  "rating": 8.2,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 64616940,
+  "budget": 35000000
+ },
+ {
+  "name": "Heat",
+  "numberOfRatings": 555830,
+  "rating": 8.2,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 67436818,
+  "budget": 60000000
+ },
+ {
+  "name": "Monty Python and the Holy Grail",
+  "numberOfRatings": 487048,
+  "rating": 8.2,
+  "genre": [
+   "Adventure",
+   "Comedy",
+   "Fantasy"
+  ],
+  "grossUSA": 1827696,
+  "budget": 229575
+ },
+ {
+  "name": "Die Hard",
+  "numberOfRatings": 761187,
+  "rating": 8.2,
+  "genre": [
+   "Action",
+   "Thriller"
+  ],
+  "grossUSA": 83519093,
+  "budget": 28000000
+ },
+ {
+  "name": "Idi i smotri",
+  "numberOfRatings": 51347,
+  "rating": 8.3,
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 71909,
+  "budget": 0
+ },
+ {
+  "name": "Rash\u00f4mon",
+  "numberOfRatings": 145848,
+  "rating": 8.2,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "grossUSA": 46808,
+  "budget": 250000
+ },
+ {
+  "name": "Y\u00f4jinb\u00f4",
+  "numberOfRatings": 105635,
+  "rating": 8.2,
+  "genre": [
+   "Action",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 46808,
+  "budget": 0
+ },
+ {
+  "name": "Batman Begins",
+  "numberOfRatings": 1265246,
+  "rating": 8.2,
+  "genre": [
+   "Action",
+   "Adventure"
+  ],
+  "grossUSA": 206852432,
+  "budget": 150000000
+ },
+ {
+  "name": "Green Book",
+  "numberOfRatings": 327275,
+  "rating": 8.2,
+  "genre": [
+   "Biography",
+   "Comedy",
+   "Drama",
+   "Music"
+  ],
+  "grossUSA": 85080171,
+  "budget": 23000000
+ },
+ {
+  "name": "Der Untergang",
+  "numberOfRatings": 321686,
+  "rating": 8.2,
+  "genre": [
+   "Biography",
+   "Drama",
+   "History",
+   "War"
+  ],
+  "grossUSA": 5509040,
+  "budget": 15254999
+ },
+ {
+  "name": "Bacheha-Ye aseman",
+  "numberOfRatings": 60913,
+  "rating": 8.3,
+  "genre": [
+   "Drama",
+   "Family",
+   "Sport"
+  ],
+  "grossUSA": 933933,
+  "budget": 180000
+ },
+ {
+  "name": "Unforgiven",
+  "numberOfRatings": 362651,
+  "rating": 8.2,
+  "genre": [
+   "Drama",
+   "Western"
+  ],
+  "grossUSA": 101157447,
+  "budget": 14400000
+ },
+ {
+  "name": "Some Like It Hot",
+  "numberOfRatings": 235381,
+  "rating": 8.2,
+  "genre": [
+   "Comedy",
+   "Music",
+   "Romance"
+  ],
+  "grossUSA": 0,
+  "budget": 2883848
+ },
+ {
+  "name": "Ran",
+  "numberOfRatings": 106958,
+  "rating": 8.2,
+  "genre": [
+   "Action",
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 4135750,
+  "budget": 11500000
+ },
+ {
+  "name": "Hauru no ugoku shiro",
+  "numberOfRatings": 311453,
+  "rating": 8.2,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Family",
+   "Fantasy"
+  ],
+  "grossUSA": 5576743,
+  "budget": 24000000
+ },
+ {
+  "name": "The Great Escape",
+  "numberOfRatings": 217198,
+  "rating": 8.2,
+  "genre": [
+   "Adventure",
+   "Drama",
+   "History",
+   "Thriller",
+   "War"
+  ],
+  "grossUSA": 0,
+  "budget": 4000000
+ },
+ {
+  "name": "A Beautiful Mind",
+  "numberOfRatings": 819134,
+  "rating": 8.2,
+  "genre": [
+   "Biography",
+   "Drama"
+  ],
+  "grossUSA": 170742341,
+  "budget": 58000000
+ },
+ {
+  "name": "All About Eve",
+  "numberOfRatings": 116211,
+  "rating": 8.2,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 63463,
+  "budget": 1400000
+ },
+ {
+  "name": "Casino",
+  "numberOfRatings": 445992,
+  "rating": 8.2,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 42512375,
+  "budget": 52000000
+ },
+ {
+  "name": "Pan's Labyrinth",
+  "numberOfRatings": 601602,
+  "rating": 8.2,
+  "genre": [
+   "Drama",
+   "Fantasy",
+   "War"
+  ],
+  "grossUSA": 37634615,
+  "budget": 19000000
+ },
+ {
+  "name": "The Wolf of Wall Street",
+  "numberOfRatings": 1121487,
+  "rating": 8.2,
+  "genre": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 116900694,
+  "budget": 100000000
+ },
+ {
+  "name": "El secreto de sus ojos",
+  "numberOfRatings": 185339,
+  "rating": 8.2,
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Romance",
+   "Thriller"
+  ],
+  "grossUSA": 6391436,
+  "budget": 2000000
+ },
+ {
+  "name": "Tonari no Totoro",
+  "numberOfRatings": 271508,
+  "rating": 8.2,
+  "genre": [
+   "Animation",
+   "Family",
+   "Fantasy"
+  ],
+  "grossUSA": 2250213,
+  "budget": 3700000
+ },
+ {
+  "name": "Lock, Stock and Two Smoking Barrels",
+  "numberOfRatings": 519515,
+  "rating": 8.2,
+  "genre": [
+   "Action",
+   "Comedy",
+   "Crime"
+  ],
+  "grossUSA": 3753929,
+  "budget": 960000
+ },
+ {
+  "name": "Raging Bull",
+  "numberOfRatings": 310043,
+  "rating": 8.2,
+  "genre": [
+   "Biography",
+   "Drama",
+   "Sport"
+  ],
+  "grossUSA": 23383987,
+  "budget": 18000000
+ },
+ {
+  "name": "There Will Be Blood",
+  "numberOfRatings": 496214,
+  "rating": 8.2,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 40222514,
+  "budget": 25000000
+ },
+ {
+  "name": "The Treasure of the Sierra Madre",
+  "numberOfRatings": 109997,
+  "rating": 8.2,
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Western"
+  ],
+  "grossUSA": 215295,
+  "budget": 3000000
+ },
+ {
+  "name": "Judgment at Nuremberg",
+  "numberOfRatings": 66355,
+  "rating": 8.2,
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 0,
+  "budget": 3000000
+ },
+ {
+  "name": "Babam ve Oglum",
+  "numberOfRatings": 75030,
+  "rating": 8.3,
+  "genre": [
+   "Drama",
+   "Family"
+  ],
+  "grossUSA": 0,
+  "budget": 0
+ },
+ {
+  "name": "Three Billboards Outside Ebbing, Missouri",
+  "numberOfRatings": 401625,
+  "rating": 8.2,
+  "genre": [
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 54513740,
+  "budget": 15000000
+ },
+ {
+  "name": "Dial M for Murder",
+  "numberOfRatings": 150997,
+  "rating": 8.2,
+  "genre": [
+   "Crime",
+   "Thriller"
+  ],
+  "grossUSA": 12562,
+  "budget": 1400000
+ },
+ {
+  "name": "The Gold Rush",
+  "numberOfRatings": 95837,
+  "rating": 8.2,
+  "genre": [
+   "Adventure",
+   "Comedy",
+   "Drama",
+   "Western"
+  ],
+  "grossUSA": 0,
+  "budget": 923000
+ },
+ {
+  "name": "Chinatown",
+  "numberOfRatings": 283032,
+  "rating": 8.2,
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 29200000,
+  "budget": 6000000
+ },
+ {
+  "name": "V for Vendetta",
+  "numberOfRatings": 999522,
+  "rating": 8.2,
+  "genre": [
+   "Action",
+   "Drama",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "grossUSA": 70511035,
+  "budget": 54000000
+ },
+ {
+  "name": "No Country for Old Men",
+  "numberOfRatings": 819588,
+  "rating": 8.1,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 74283625,
+  "budget": 25000000
+ },
+ {
+  "name": "Det sjunde inseglet",
+  "numberOfRatings": 156562,
+  "rating": 8.2,
+  "genre": [
+   "Drama",
+   "Fantasy"
+  ],
+  "grossUSA": 0,
+  "budget": 150000
+ },
+ {
+  "name": "Inside Out",
+  "numberOfRatings": 584400,
+  "rating": 8.1,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy",
+   "Drama",
+   "Family",
+   "Fantasy"
+  ],
+  "grossUSA": 356461711,
+  "budget": 175000000
+ },
+ {
+  "name": "Shutter Island",
+  "numberOfRatings": 1082127,
+  "rating": 8.1,
+  "genre": [
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 128012934,
+  "budget": 80000000
+ },
+ {
+  "name": "Warrior",
+  "numberOfRatings": 423620,
+  "rating": 8.2,
+  "genre": [
+   "Drama",
+   "Sport"
+  ],
+  "grossUSA": 13657115,
+  "budget": 25000000
+ },
+ {
+  "name": "Trainspotting",
+  "numberOfRatings": 618465,
+  "rating": 8.1,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 16491080,
+  "budget": 3500000
+ },
+ {
+  "name": "The Elephant Man",
+  "numberOfRatings": 211908,
+  "rating": 8.1,
+  "genre": [
+   "Biography",
+   "Drama"
+  ],
+  "grossUSA": 26010864,
+  "budget": 5000000
+ },
+ {
+  "name": "The Sixth Sense",
+  "numberOfRatings": 886571,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 293506292,
+  "budget": 40000000
+ },
+ {
+  "name": "The Thing",
+  "numberOfRatings": 355356,
+  "rating": 8.1,
+  "genre": [
+   "Horror",
+   "Mystery",
+   "Sci-Fi"
+  ],
+  "grossUSA": 19629760,
+  "budget": 15000000
+ },
+ {
+  "name": "Jurassic Park",
+  "numberOfRatings": 833278,
+  "rating": 8.1,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "grossUSA": 402828120,
+  "budget": 63000000
+ },
+ {
+  "name": "Gone with the Wind",
+  "numberOfRatings": 279568,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "History",
+   "Romance",
+   "War"
+  ],
+  "grossUSA": 200852579,
+  "budget": 3977000
+ },
+ {
+  "name": "Smultronst\u00e4llet",
+  "numberOfRatings": 91218,
+  "rating": 8.2,
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "grossUSA": 0,
+  "budget": 0
+ },
+ {
+  "name": "Room",
+  "numberOfRatings": 350573,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 14677654,
+  "budget": 13000000
+ },
+ {
+  "name": "Blade Runner",
+  "numberOfRatings": 670669,
+  "rating": 8.1,
+  "genre": [
+   "Action",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "grossUSA": 32868943,
+  "budget": 28000000
+ },
+ {
+  "name": "Finding Nemo",
+  "numberOfRatings": 919475,
+  "rating": 8.1,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy",
+   "Family"
+  ],
+  "grossUSA": 380843261,
+  "budget": 94000000
+ },
+ {
+  "name": "The Bridge on the River Kwai",
+  "numberOfRatings": 196584,
+  "rating": 8.1,
+  "genre": [
+   "Adventure",
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 27200000,
+  "budget": 3000000
+ },
+ {
+  "name": "The Truman Show",
+  "numberOfRatings": 896916,
+  "rating": 8.1,
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Sci-Fi"
+  ],
+  "grossUSA": 125618201,
+  "budget": 60000000
+ },
+ {
+  "name": "Stalker",
+  "numberOfRatings": 109427,
+  "rating": 8.2,
+  "genre": [
+   "Drama",
+   "Sci-Fi"
+  ],
+  "grossUSA": 292049,
+  "budget": 6000000
+ },
+ {
+  "name": "Kill Bill: Vol. 1",
+  "numberOfRatings": 967263,
+  "rating": 8.1,
+  "genre": [
+   "Action",
+   "Crime",
+   "Thriller"
+  ],
+  "grossUSA": 70099045,
+  "budget": 30000000
+ },
+ {
+  "name": "Fargo",
+  "numberOfRatings": 594713,
+  "rating": 8.1,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 24611975,
+  "budget": 7000000
+ },
+ {
+  "name": "On the Waterfront",
+  "numberOfRatings": 136735,
+  "rating": 8.1,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 0,
+  "budget": 910000
+ },
+ {
+  "name": "The Third Man",
+  "numberOfRatings": 153623,
+  "rating": 8.1,
+  "genre": [
+   "Film-Noir",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 1067364,
+  "budget": 0
+ },
+ {
+  "name": "Gran Torino",
+  "numberOfRatings": 701355,
+  "rating": 8.1,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 148095302,
+  "budget": 33000000
+ },
+ {
+  "name": "T\u00f4ky\u00f4 monogatari",
+  "numberOfRatings": 49108,
+  "rating": 8.2,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 0,
+  "budget": 0
+ },
+ {
+  "name": "The Deer Hunter",
+  "numberOfRatings": 301127,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 48979328,
+  "budget": 15000000
+ },
+ {
+  "name": "Salinui chueok",
+  "numberOfRatings": 124032,
+  "rating": 8.1,
+  "genre": [
+   "Action",
+   "Crime",
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 15357,
+  "budget": 2800000
+ },
+ {
+  "name": "Relatos salvajes",
+  "numberOfRatings": 167125,
+  "rating": 8.1,
+  "genre": [
+   "Comedy",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 3106530,
+  "budget": 3300000
+ },
+ {
+  "name": "Klaus",
+  "numberOfRatings": 70303,
+  "rating": 8.2,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy",
+   "Family"
+  ],
+  "grossUSA": 0,
+  "budget": 40000000
+ },
+ {
+  "name": "Eskiya",
+  "numberOfRatings": 60867,
+  "rating": 8.3,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 0,
+  "budget": 1200000
+ },
+ {
+  "name": "Andhadhun",
+  "numberOfRatings": 61995,
+  "rating": 8.3,
+  "genre": [
+   "Crime",
+   "Thriller"
+  ],
+  "grossUSA": 1193046,
+  "budget": 4500000
+ },
+ {
+  "name": "Mary and Max",
+  "numberOfRatings": 159445,
+  "rating": 8.1,
+  "genre": [
+   "Animation",
+   "Comedy",
+   "Drama",
+   "Family"
+  ],
+  "grossUSA": 0,
+  "budget": 8240000
+ },
+ {
+  "name": "The Big Lebowski",
+  "numberOfRatings": 703361,
+  "rating": 8.1,
+  "genre": [
+   "Comedy",
+   "Crime",
+   "Sport"
+  ],
+  "grossUSA": 18034458,
+  "budget": 15000000
+ },
+ {
+  "name": "In the Name of the Father",
+  "numberOfRatings": 150705,
+  "rating": 8.1,
+  "genre": [
+   "Biography",
+   "Drama"
+  ],
+  "grossUSA": 25096862,
+  "budget": 13000000
+ },
+ {
+  "name": "Gone Girl",
+  "numberOfRatings": 822003,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 167767189,
+  "budget": 61000000
+ },
+ {
+  "name": "Hacksaw Ridge",
+  "numberOfRatings": 410477,
+  "rating": 8.1,
+  "genre": [
+   "Biography",
+   "Drama",
+   "History",
+   "War"
+  ],
+  "grossUSA": 67209615,
+  "budget": 40000000
+ },
+ {
+  "name": "The Grand Budapest Hotel",
+  "numberOfRatings": 679314,
+  "rating": 8.1,
+  "genre": [
+   "Adventure",
+   "Comedy",
+   "Crime"
+  ],
+  "grossUSA": 59301324,
+  "budget": 25000000
+ },
+ {
+  "name": "Persona",
+  "numberOfRatings": 96778,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 0,
+  "budget": 0
+ },
+ {
+  "name": "Before Sunrise",
+  "numberOfRatings": 257951,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "grossUSA": 5535405,
+  "budget": 2500000
+ },
+ {
+  "name": "Catch Me If You Can",
+  "numberOfRatings": 787041,
+  "rating": 8.1,
+  "genre": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 164615351,
+  "budget": 52000000
+ },
+ {
+  "name": "To Be or Not to Be",
+  "numberOfRatings": 26107,
+  "rating": 8.2,
+  "genre": [
+   "Comedy",
+   "War"
+  ],
+  "grossUSA": 3270000,
+  "budget": 0
+ },
+ {
+  "name": "Ford v Ferrari",
+  "numberOfRatings": 222482,
+  "rating": 8.1,
+  "genre": [
+   "Action",
+   "Biography",
+   "Drama",
+   "Sport"
+  ],
+  "grossUSA": 117624357,
+  "budget": 97600000
+ },
+ {
+  "name": "The General",
+  "numberOfRatings": 77546,
+  "rating": 8.1,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Comedy",
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 0,
+  "budget": 750000
+ },
+ {
+  "name": "How to Train Your Dragon",
+  "numberOfRatings": 645320,
+  "rating": 8.1,
+  "genre": [
+   "Animation",
+   "Action",
+   "Adventure",
+   "Family",
+   "Fantasy"
+  ],
+  "grossUSA": 217581231,
+  "budget": 165000000
+ },
+ {
+  "name": "Mr. Smith Goes to Washington",
+  "numberOfRatings": 103331,
+  "rating": 8.1,
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "grossUSA": 144738,
+  "budget": 1900000
+ },
+ {
+  "name": "Sherlock Jr.",
+  "numberOfRatings": 38543,
+  "rating": 8.2,
+  "genre": [
+   "Action",
+   "Comedy",
+   "Romance"
+  ],
+  "grossUSA": 977375,
+  "budget": 0
+ },
+ {
+  "name": "Prisoners",
+  "numberOfRatings": 572316,
+  "rating": 8.1,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 61002302,
+  "budget": 46000000
+ },
+ {
+  "name": "12 Years a Slave",
+  "numberOfRatings": 617114,
+  "rating": 8.1,
+  "genre": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "grossUSA": 56671993,
+  "budget": 20000000
+ },
+ {
+  "name": "Mad Max: Fury Road",
+  "numberOfRatings": 844524,
+  "rating": 8.1,
+  "genre": [
+   "Action",
+   "Adventure",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "grossUSA": 154058340,
+  "budget": 150000000
+ },
+ {
+  "name": "Cool Hand Luke",
+  "numberOfRatings": 156659,
+  "rating": 8.1,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 0,
+  "budget": 3200000
+ },
+ {
+  "name": "Barry Lyndon",
+  "numberOfRatings": 143039,
+  "rating": 8.1,
+  "genre": [
+   "Adventure",
+   "Drama",
+   "History",
+   "War"
+  ],
+  "grossUSA": 0,
+  "budget": 11000000
+ },
+ {
+  "name": "Network",
+  "numberOfRatings": 140088,
+  "rating": 8.1,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 23689877,
+  "budget": 3800000
+ },
+ {
+  "name": "Stand by Me",
+  "numberOfRatings": 351423,
+  "rating": 8.1,
+  "genre": [
+   "Adventure",
+   "Drama"
+  ],
+  "grossUSA": 52287414,
+  "budget": 8000000
+ },
+ {
+  "name": "Le salaire de la peur",
+  "numberOfRatings": 52063,
+  "rating": 8.1,
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 0,
+  "budget": 0
+ },
+ {
+  "name": "Million Dollar Baby",
+  "numberOfRatings": 617001,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Sport"
+  ],
+  "grossUSA": 100492203,
+  "budget": 30000000
+ },
+ {
+  "name": "Into the Wild",
+  "numberOfRatings": 553487,
+  "rating": 8.1,
+  "genre": [
+   "Adventure",
+   "Biography",
+   "Drama"
+  ],
+  "grossUSA": 18354356,
+  "budget": 15000000
+ },
+ {
+  "name": "Hachi: A Dog's Tale",
+  "numberOfRatings": 242386,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Family"
+  ],
+  "grossUSA": 0,
+  "budget": 16000000
+ },
+ {
+  "name": "Life of Brian",
+  "numberOfRatings": 355476,
+  "rating": 8.1,
+  "genre": [
+   "Comedy"
+  ],
+  "grossUSA": 20206622,
+  "budget": 4000000
+ },
+ {
+  "name": "Ben-Hur",
+  "numberOfRatings": 212761,
+  "rating": 8.1,
+  "genre": [
+   "Adventure",
+   "Drama",
+   "History"
+  ],
+  "grossUSA": 74422622,
+  "budget": 15000000
+ },
+ {
+  "name": "Platoon",
+  "numberOfRatings": 369957,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 138530565,
+  "budget": 6000000
+ },
+ {
+  "name": "Rush",
+  "numberOfRatings": 417915,
+  "rating": 8.1,
+  "genre": [
+   "Biography",
+   "Drama",
+   "Sport"
+  ],
+  "grossUSA": 26947624,
+  "budget": 38000000
+ },
+ {
+  "name": "Dead Poets Society",
+  "numberOfRatings": 404913,
+  "rating": 8.1,
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "grossUSA": 95860116,
+  "budget": 16400000
+ },
+ {
+  "name": "Harry Potter and the Deathly Hallows: Part 2",
+  "numberOfRatings": 735107,
+  "rating": 8.1,
+  "genre": [
+   "Adventure",
+   "Drama",
+   "Fantasy",
+   "Mystery"
+  ],
+  "grossUSA": 381409310,
+  "budget": 125000000
+ },
+ {
+  "name": "Logan",
+  "numberOfRatings": 618408,
+  "rating": 8.1,
+  "genre": [
+   "Action",
+   "Drama",
+   "Sci-Fi",
+   "Thriller"
+  ],
+  "grossUSA": 226277068,
+  "budget": 97000000
+ },
+ {
+  "name": "Andrei Rublev",
+  "numberOfRatings": 43790,
+  "rating": 8.1,
+  "genre": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "grossUSA": 124189,
+  "budget": 1000000
+ },
+ {
+  "name": "La passion de Jeanne d'Arc",
+  "numberOfRatings": 44920,
+  "rating": 8.1,
+  "genre": [
+   "Biography",
+   "Drama",
+   "History"
+  ],
+  "grossUSA": 21877,
+  "budget": 0
+ },
+ {
+  "name": "Les quatre cents coups",
+  "numberOfRatings": 100211,
+  "rating": 8.1,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 509,
+  "budget": 0
+ },
+ {
+  "name": "Hotel Rwanda",
+  "numberOfRatings": 326723,
+  "rating": 8.1,
+  "genre": [
+   "Biography",
+   "Drama",
+   "History",
+   "War"
+  ],
+  "grossUSA": 23530892,
+  "budget": 17500000
+ },
+ {
+  "name": "Ah-ga-ssi",
+  "numberOfRatings": 100392,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Romance",
+   "Thriller"
+  ],
+  "grossUSA": 2006788,
+  "budget": 10000000000
+ },
+ {
+  "name": "Amores perros",
+  "numberOfRatings": 217210,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 5408467,
+  "budget": 2000000
+ },
+ {
+  "name": "Spotlight",
+  "numberOfRatings": 399990,
+  "rating": 8.1,
+  "genre": [
+   "Biography",
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 45055776,
+  "budget": 20000000
+ },
+ {
+  "name": "Rang De Basanti",
+  "numberOfRatings": 107217,
+  "rating": 8.2,
+  "genre": [
+   "Comedy",
+   "Drama"
+  ],
+  "grossUSA": 2197694,
+  "budget": 0
+ },
+ {
+  "name": "Kaze no tani no Naushika",
+  "numberOfRatings": 141715,
+  "rating": 8.1,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Fantasy",
+   "Sci-Fi"
+  ],
+  "grossUSA": 495770,
+  "budget": 1000000
+ },
+ {
+  "name": "Rocky",
+  "numberOfRatings": 501164,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Sport"
+  ],
+  "grossUSA": 117235147,
+  "budget": 960000
+ },
+ {
+  "name": "Rebecca",
+  "numberOfRatings": 117784,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Romance",
+   "Thriller"
+  ],
+  "grossUSA": 0,
+  "budget": 1288000
+ },
+ {
+  "name": "La haine",
+  "numberOfRatings": 141801,
+  "rating": 8.1,
+  "genre": [
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 280859,
+  "budget": 2926699
+ },
+ {
+  "name": "Monsters, Inc.",
+  "numberOfRatings": 787483,
+  "rating": 8.0,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy",
+   "Family",
+   "Fantasy"
+  ],
+  "grossUSA": 289916256,
+  "budget": 115000000
+ },
+ {
+  "name": "Portrait de la jeune fille en feu",
+  "numberOfRatings": 40731,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "grossUSA": 3759854,
+  "budget": 0
+ },
+ {
+  "name": "Gangs of Wasseypur",
+  "numberOfRatings": 76076,
+  "rating": 8.2,
+  "genre": [
+   "Action",
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "grossUSA": 0,
+  "budget": 184000000
+ },
+ {
+  "name": "It Happened One Night",
+  "numberOfRatings": 90117,
+  "rating": 8.1,
+  "genre": [
+   "Comedy",
+   "Romance"
+  ],
+  "grossUSA": 0,
+  "budget": 325000
+ },
+ {
+  "name": "Fa yeung nin wah",
+  "numberOfRatings": 116891,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "grossUSA": 2738980,
+  "budget": 0
+ },
+ {
+  "name": "Before Sunset",
+  "numberOfRatings": 225075,
+  "rating": 8.0,
+  "genre": [
+   "Drama",
+   "Romance"
+  ],
+  "grossUSA": 5820649,
+  "budget": 2700000
+ },
+ {
+  "name": "Paris, Texas",
+  "numberOfRatings": 84154,
+  "rating": 8.1,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 2181987,
+  "budget": 1162000
+ },
+ {
+  "name": "The Help",
+  "numberOfRatings": 413685,
+  "rating": 8.1,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 169708112,
+  "budget": 25000000
+ },
+ {
+  "name": "Contratiempo",
+  "numberOfRatings": 120445,
+  "rating": 8.1,
+  "genre": [
+   "Crime",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 0,
+  "budget": 4520000
+ },
+ {
+  "name": "The Princess Bride",
+  "numberOfRatings": 380615,
+  "rating": 8.1,
+  "genre": [
+   "Adventure",
+   "Family",
+   "Fantasy",
+   "Romance"
+  ],
+  "grossUSA": 30857814,
+  "budget": 16000000
+ },
+ {
+  "name": "Drishyam",
+  "numberOfRatings": 63596,
+  "rating": 8.2,
+  "genre": [
+   "Crime",
+   "Drama",
+   "Mystery",
+   "Thriller"
+  ],
+  "grossUSA": 0,
+  "budget": 9400000
+ },
+ {
+  "name": "The Terminator",
+  "numberOfRatings": 776717,
+  "rating": 8.0,
+  "genre": [
+   "Action",
+   "Sci-Fi"
+  ],
+  "grossUSA": 38371200,
+  "budget": 6400000
+ },
+ {
+  "name": "Hera Pheri",
+  "numberOfRatings": 53402,
+  "rating": 8.2,
+  "genre": [
+   "Action",
+   "Comedy",
+   "Crime",
+   "Drama"
+  ],
+  "grossUSA": 0,
+  "budget": 0
+ },
+ {
+  "name": "Mandariinid",
+  "numberOfRatings": 36727,
+  "rating": 8.2,
+  "genre": [
+   "Drama",
+   "War"
+  ],
+  "grossUSA": 144501,
+  "budget": 734499
+ },
+ {
+  "name": "Kumonosu-j\u00f4",
+  "numberOfRatings": 43679,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "History"
+  ],
+  "grossUSA": 46808,
+  "budget": 0
+ },
+ {
+  "name": "Fanny och Alexander",
+  "numberOfRatings": 55352,
+  "rating": 8.1,
+  "genre": [
+   "Drama"
+  ],
+  "grossUSA": 6783304,
+  "budget": 6000000
+ },
+ {
+  "name": "Aladdin",
+  "numberOfRatings": 359123,
+  "rating": 8.0,
+  "genre": [
+   "Animation",
+   "Adventure",
+   "Comedy",
+   "Family",
+   "Fantasy",
+   "Musical",
+   "Romance"
+  ],
+  "grossUSA": 217350219,
+  "budget": 28000000
+ },
+ {
+  "name": "Trois couleurs: Rouge",
+  "numberOfRatings": 86217,
+  "rating": 8.1,
+  "genre": [
+   "Drama",
+   "Mystery",
+   "Romance"
+  ],
+  "grossUSA": 3581969,
+  "budget": 0
+ },
+ {
+  "name": "Koe no katachi",
+  "numberOfRatings": 37724,
+  "rating": 8.2,
+  "genre": [
+   "Animation",
+   "Drama",
+   "Family",
+   "Romance"
+  ],
+  "grossUSA": 644391,
+  "budget": 0
+ },
+ {
+  "name": "Butch Cassidy and the Sundance Kid",
+  "numberOfRatings": 197815,
+  "rating": 8.0,
+  "genre": [
+   "Biography",
+   "Crime",
+   "Drama",
+   "Western"
+  ],
+  "grossUSA": 102308889,
+  "budget": 6000000
+ }
+]
