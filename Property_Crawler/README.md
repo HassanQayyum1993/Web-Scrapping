@@ -8,5 +8,7 @@ Morever a "sample.json" also gets created when we run the script that stores the
 ## Libraries Required
 
 -> Requests
+
 -> Beautiful Soup
+
 -> MySQL Connector
