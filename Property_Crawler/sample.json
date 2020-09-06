@@ -1,0 +1,1252 @@
+[
+    {
+        "loc": "Bahria Town - Talha Block, Bahria Town - Sector E",
+        "price": 48.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Low Cost - Block D, Low Cost Sector",
+        "price": 32.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Bahria Town - Nishtar Block, Bahria Town - Sector E",
+        "price": 51.5,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Town - Jinnah Block, Bahria Town - Sector E",
+        "price": 42.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Lake City - Sector M-2, Lake City",
+        "price": 42.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Fazaia Housing Scheme Phase 2, Fazaia Housing Scheme",
+        "price": 25.0,
+        "size": 5.0
+    },
+    {
+        "loc": "State Life Housing Phase 1, State Life Housing Society",
+        "price": 44.5,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block U, DHA Phase 7",
+        "price": 44.5,
+        "size": 20.0
+    },
+    {
+        "loc": "State Life Housing Phase 1, State Life Housing Society",
+        "price": 44.5,
+        "size": 20.0
+    },
+    {
+        "loc": "IEP Engineers Town - Block C2, IEP Engineers Town - Sector A",
+        "price": 44.5,
+        "size": 36.0
+    },
+    {
+        "loc": "Low Cost - Block G, Low Cost Sector",
+        "price": 23.5,
+        "size": 5.0
+    },
+    {
+        "loc": "Low Cost - Block J, Low Cost Sector",
+        "price": 26.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Dream Gardens Phase 2, Dream Gardens",
+        "price": 56.5,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block N, DHA Phase 9 Prism",
+        "price": 56.5,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block P, DHA Phase 9 Prism",
+        "price": 56.5,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block D, DHA Phase 9 Prism",
+        "price": 56.5,
+        "size": 20.0
+    },
+    {
+        "loc": "IEP Engineers Town - Block F3, IEP Engineers Town - Sector A",
+        "price": 60.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism, DHA Defence",
+        "price": 52.0,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 3, DHA Defence",
+        "price": 52.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Govt Officers Cooperative Housing Society, Lahore",
+        "price": 25.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 8 - Block T, DHA Phase 8",
+        "price": 25.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block T, DHA Phase 7",
+        "price": 25.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 8 - Block U, DHA Phase 8",
+        "price": 25.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block Y, DHA Phase 7",
+        "price": 25.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block P, DHA Phase 9 Prism",
+        "price": 25.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Low Cost - Block C, Low Cost Sector",
+        "price": 31.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Bahria Town - Ghazi Block, Bahria Town - Sector F",
+        "price": 39.5,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 1 - Southern, Bahria Orchard Phase 1",
+        "price": 35.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Bahria Town - Johar Block, Bahria Town - Sector E",
+        "price": 53.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Low Cost - Block D, Low Cost Sector",
+        "price": 29.8,
+        "size": 8.0
+    },
+    {
+        "loc": "Central Park - Block D, Central Park Housing Scheme",
+        "price": 39.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 4 - Block G2, Bahria Orchard Phase 4",
+        "price": 80.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Bahria Town, Lahore",
+        "price": 80.0,
+        "size": 80.0
+    },
+    {
+        "loc": "DHA Phase 6 - Block K, DHA Phase 6",
+        "price": 80.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA 11 Rahbar Phase 2 - Block G, DHA 11 Rahbar Phase 2",
+        "price": 62.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Etihad Town, Raiwind Road",
+        "price": 65.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Etihad Town, Raiwind Road",
+        "price": 65.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Sukh Chayn Gardens - Block A, Sukh Chayn Gardens",
+        "price": 90.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block Z1, DHA Phase 7",
+        "price": 90.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Low Cost - Block D, Low Cost Sector",
+        "price": 42.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Sukh Chayn Gardens - Block B, Sukh Chayn Gardens",
+        "price": 42.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Town - Jasmine Block, Bahria Town - Sector C",
+        "price": 42.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA 9 Town, DHA Defence",
+        "price": 63.0,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block R, DHA Phase 9 Prism",
+        "price": 43.0,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block R, DHA Phase 9 Prism",
+        "price": 93.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block H, DHA Phase 9 Prism",
+        "price": 93.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block H, DHA Phase 9 Prism",
+        "price": 93.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block E, DHA Phase 9 Prism",
+        "price": 93.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block F, DHA Phase 9 Prism",
+        "price": 93.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block J, DHA Phase 9 Prism",
+        "price": 42.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Low Cost - Block H, Low Cost Sector",
+        "price": 31.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Low Cost - Block G, Low Cost Sector",
+        "price": 22.5,
+        "size": 5.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 4, Bahria Orchard",
+        "price": 35.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Town - Talha Block, Bahria Town - Sector E",
+        "price": 52.5,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Orchard, Lahore",
+        "price": 22.5,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA 11 Rahbar Phase 2 Extension - Block M, DHA 11 Rahbar Phase 2 Extension",
+        "price": 56.25,
+        "size": 5.0
+    },
+    {
+        "loc": "Etihad Town, Raiwind Road",
+        "price": 64.5,
+        "size": 5.0
+    },
+    {
+        "loc": "Low Cost - Block G, Low Cost Sector",
+        "price": 20.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Bahria Town, Lahore",
+        "price": 20.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 6 - Block F, DHA Phase 6",
+        "price": 20.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA 11 Rahbar Phase 1 - Block E, DHA 11 Rahbar Phase 1",
+        "price": 20.0,
+        "size": 10.0
+    },
+    {
+        "loc": "LDA Avenue - Block J, LDA Avenue",
+        "price": 88.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 8 - Block S, DHA Phase 8",
+        "price": 88.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Bahria Town - Overseas B, Bahria Town - Overseas Enclave",
+        "price": 78.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Low Cost - Block D, Low Cost Sector",
+        "price": 38.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Bahria Town - Janiper Block, Bahria Town - Sector C",
+        "price": 90.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Town - Canal View Residency, Bahria Town - Sector A",
+        "price": 90.0,
+        "size": 80.0
+    },
+    {
+        "loc": "Bahria Town - Johar Block, Bahria Town - Sector E",
+        "price": 76.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Zaitoon - New Lahore City, Lahore",
+        "price": 17.75,
+        "size": 3.0
+    },
+    {
+        "loc": "Zaitoon - New Lahore City, Lahore",
+        "price": 23.5,
+        "size": 5.0
+    },
+    {
+        "loc": "Bahria Town - Overseas B, Bahria Town - Overseas Enclave",
+        "price": 23.5,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block C, DHA Phase 9 Prism",
+        "price": 83.0,
+        "size": 10.0
+    },
+    {
+        "loc": "AWT Phase 2 - Block E-1, AWT Phase 2",
+        "price": 86.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Park View Villas, Lahore",
+        "price": 52.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Pak Arab Housing Society, Lahore",
+        "price": 26.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Low Cost - Block F, Low Cost Sector",
+        "price": 16.25,
+        "size": 5.0
+    },
+    {
+        "loc": "Low Cost - Block J, Low Cost Sector",
+        "price": 29.0,
+        "size": 8.0
+    },
+    {
+        "loc": "OLC - Block A, Overseas Low Cost",
+        "price": 24.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Lake City - Sector M-2, Lake City",
+        "price": 24.0,
+        "size": 40.0
+    },
+    {
+        "loc": "AWT Phase 2, AWT Army Welfare Trust",
+        "price": 87.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 7, DHA Defence",
+        "price": 87.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Paragon City, Lahore",
+        "price": 42.0,
+        "size": 4.0
+    },
+    {
+        "loc": "Bahria Town - Ghaznavi Block, Bahria Town - Sector F",
+        "price": 74.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 11 - Halloki Gardens, DHA Defence",
+        "price": 45.5,
+        "size": 5.0
+    },
+    {
+        "loc": "Fazaia Housing Society Phase 2 Block B, Fazaia Housing Scheme Phase 2",
+        "price": 44.0,
+        "size": 10.0
+    },
+    {
+        "loc": "LDA Avenue - Block D, LDA Avenue",
+        "price": 60.0,
+        "size": 10.0
+    },
+    {
+        "loc": "LDA Avenue - Block J, LDA Avenue",
+        "price": 90.0,
+        "size": 10.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block EE, State Life Housing Phase 2",
+        "price": 17.5,
+        "size": 7.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block CC, State Life Housing Phase 2",
+        "price": 32.0,
+        "size": 14.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block BB, State Life Housing Phase 2",
+        "price": 32.0,
+        "size": 14.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block EE, State Life Housing Phase 2",
+        "price": 18.75,
+        "size": 7.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block AA, State Life Housing Phase 2",
+        "price": 31.75,
+        "size": 14.0
+    },
+    {
+        "loc": "Bahria Town - Overseas Extension, Bahria Town - Overseas Enclave",
+        "price": 70.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block H, DHA Phase 9 Prism",
+        "price": 70.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Zaitoon - New Lahore City, Lahore",
+        "price": 44.5,
+        "size": 10.0
+    },
+    {
+        "loc": "AWT Phase 2 - Block E-2, AWT Phase 2",
+        "price": 51.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Al Rehman Garden Phase 2, Al Rehman Garden",
+        "price": 28.0,
+        "size": 4.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 1 - Southern, Bahria Orchard Phase 1",
+        "price": 49.0,
+        "size": 8.0
+    },
+    {
+        "loc": "DHA 11 Rahbar Phase 4 - Block R, DHA 11 Rahbar Phase 4",
+        "price": 32.0,
+        "size": 5.0
+    },
+    {
+        "loc": "AWT Phase 2 - Block E-1, AWT Phase 2",
+        "price": 61.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Khayaban-e-Amin, Lahore",
+        "price": 59.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Fazaia Housing Scheme Phase 1, Fazaia Housing Scheme",
+        "price": 59.0,
+        "size": 20.0
+    },
+    {
+        "loc": "AWT Phase 2, AWT Army Welfare Trust",
+        "price": 80.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block Y, DHA Phase 7",
+        "price": 80.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Bahria Town - Ghaznavi Extension, Bahria Town - Sector F",
+        "price": 80.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Fazaia Housing Scheme Phase 1 - Block B, Fazaia Housing Scheme Phase 1",
+        "price": 80.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block D, DHA Phase 9 Prism",
+        "price": 80.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block G, DHA Phase 9 Prism",
+        "price": 80.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 8 - Block W, DHA Phase 8",
+        "price": 80.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Paragon City - Woods Block, Paragon City",
+        "price": 80.0,
+        "size": 10.0
+    },
+    {
+        "loc": "LDA Avenue - Block G, LDA Avenue",
+        "price": 66.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Lake City - Sector M-5, Lake City",
+        "price": 90.0,
+        "size": 10.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block BB, State Life Housing Phase 2",
+        "price": 32.0,
+        "size": 14.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block CC, State Life Housing Phase 2",
+        "price": 31.5,
+        "size": 14.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block CC, State Life Housing Phase 2",
+        "price": 32.5,
+        "size": 14.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block JJ, State Life Housing Phase 2",
+        "price": 31.75,
+        "size": 14.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block JJ, State Life Housing Phase 2",
+        "price": 32.25,
+        "size": 14.0
+    },
+    {
+        "loc": "Bahria Town - Block EE, Bahria Town - Sector D",
+        "price": 32.25,
+        "size": 20.0
+    },
+    {
+        "loc": "Bahria Town - Jinnah Block, Bahria Town - Sector E",
+        "price": 63.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Bahria Town - Jinnah Block, Bahria Town - Sector E",
+        "price": 59.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Bahria Town - Rafi Block, Bahria Town - Sector E",
+        "price": 65.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Sukh Chayn Gardens - Block C, Sukh Chayn Gardens",
+        "price": 65.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Park View Villas, Lahore",
+        "price": 39.0,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA 11 Rahbar Phase 4 - Block R, DHA 11 Rahbar Phase 4",
+        "price": 33.0,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block E, DHA Phase 9 Prism",
+        "price": 33.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Al Jalil Garden, Lahore",
+        "price": 6.5,
+        "size": 5.0
+    },
+    {
+        "loc": "Lake City - Sector M-3, Lake City",
+        "price": 6.5,
+        "size": 20.0
+    },
+    {
+        "loc": "Fazaia Housing Scheme Phase 1, Fazaia Housing Scheme",
+        "price": 6.5,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block Q, DHA Phase 9 Prism",
+        "price": 6.5,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block B, DHA Phase 9 Prism",
+        "price": 6.5,
+        "size": 20.0
+    },
+    {
+        "loc": "Hamza Town, Lahore",
+        "price": 26.5,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 8 - Block V, DHA Phase 8",
+        "price": 26.5,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 8 - Block X, DHA Phase 8",
+        "price": 26.5,
+        "size": 20.0
+    },
+    {
+        "loc": "LDA Avenue - Block C, LDA Avenue",
+        "price": 26.5,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA 9 Town - Block C, DHA 9 Town",
+        "price": 78.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Low Cost - Block J, Low Cost Sector",
+        "price": 31.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Lake City - Sector M-5, Lake City",
+        "price": 88.0,
+        "size": 10.0
+    },
+    {
+        "loc": "State Life Phase 1 - Block A, State Life Housing Phase 1",
+        "price": 75.0,
+        "size": 5.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block EE, State Life Housing Phase 2",
+        "price": 18.0,
+        "size": 7.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block FF, State Life Housing Phase 2",
+        "price": 16.25,
+        "size": 3.5
+    },
+    {
+        "loc": "State Life Phase 2 - Block CC, State Life Housing Phase 2",
+        "price": 32.75,
+        "size": 14.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block CC, State Life Housing Phase 2",
+        "price": 32.4,
+        "size": 14.0
+    },
+    {
+        "loc": "Bahria Town - Block CC, Bahria Town - Sector D",
+        "price": 32.4,
+        "size": 10.0
+    },
+    {
+        "loc": "Lake City - Sector M-3, Lake City",
+        "price": 32.4,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block E, DHA Phase 9 Prism",
+        "price": 32.4,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block T, DHA Phase 7",
+        "price": 32.4,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA 9 Town - Block D, DHA 9 Town",
+        "price": 76.0,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block K, DHA Phase 9 Prism",
+        "price": 76.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Sukh Chayn Gardens - Block C, Sukh Chayn Gardens",
+        "price": 76.0,
+        "size": 20.0
+    },
+    {
+        "loc": "AWT Phase 2 - Block E, AWT Phase 2",
+        "price": 87.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Bahria Town - Talha Block, Bahria Town - Sector E",
+        "price": 88.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block W, DHA Phase 7",
+        "price": 88.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block U, DHA Phase 7",
+        "price": 88.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Al-Noor Orchard, Lahore - Jaranwala Road",
+        "price": 88.0,
+        "size": 40.0
+    },
+    {
+        "loc": "DHA Phase 5, DHA Defence",
+        "price": 88.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Low Cost - Block G, Low Cost Sector",
+        "price": 31.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Low Cost - Block H, Low Cost Sector",
+        "price": 27.5,
+        "size": 8.0
+    },
+    {
+        "loc": "DHA Phase 6, DHA Defence",
+        "price": 27.5,
+        "size": 40.0
+    },
+    {
+        "loc": "DHA Phase 6, DHA Defence",
+        "price": 27.5,
+        "size": 10.0
+    },
+    {
+        "loc": "Barki Road, Cantt",
+        "price": 27.5,
+        "size": 80.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block Y, DHA Phase 7",
+        "price": 27.5,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 1 - Southern, Bahria Orchard Phase 1",
+        "price": 34.0,
+        "size": 8.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block FF, State Life Housing Phase 2",
+        "price": 16.0,
+        "size": 2.5
+    },
+    {
+        "loc": "State Life Phase 2 - Block AA, State Life Housing Phase 2",
+        "price": 31.0,
+        "size": 14.0
+    },
+    {
+        "loc": "Low Cost - Block G, Low Cost Sector",
+        "price": 23.0,
+        "size": 5.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block AA, State Life Housing Phase 2",
+        "price": 31.0,
+        "size": 14.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block FF, State Life Housing Phase 2",
+        "price": 16.5,
+        "size": 3.5
+    },
+    {
+        "loc": "Lake City - Sector M-3 Extension, Lake City",
+        "price": 82.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Lake City - Sector M-2A, Lake City",
+        "price": 85.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Lake City - Sector M-4, Lake City",
+        "price": 85.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Lake City - Sector M-2, Lake City",
+        "price": 85.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Etihad Town, Raiwind Road",
+        "price": 65.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Lake City - Sector M-8, Lake City",
+        "price": 38.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Lake City - Sector M-5, Lake City",
+        "price": 88.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Lake City - Sector M-3 Extension, Lake City",
+        "price": 90.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block J, DHA Phase 9 Prism",
+        "price": 39.0,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 8 - Block W, DHA Phase 8",
+        "price": 39.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 6 - Block D, DHA Phase 6",
+        "price": 39.0,
+        "size": 40.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block T, DHA Phase 7",
+        "price": 39.0,
+        "size": 40.0
+    },
+    {
+        "loc": "DHA Phase 8 - Block Z1, DHA Phase 8",
+        "price": 39.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block D, DHA Phase 9 Prism",
+        "price": 39.0,
+        "size": 40.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block D, DHA Phase 9 Prism",
+        "price": 39.0,
+        "size": 40.0
+    },
+    {
+        "loc": "Low Cost - Block J, Low Cost Sector",
+        "price": 29.0,
+        "size": 8.0
+    },
+    {
+        "loc": "OLC - Block A, Overseas Low Cost",
+        "price": 19.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Bahria Town - Meadows Villas, Bahria Town - Sector B",
+        "price": 19.0,
+        "size": 40.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 1 - Central, Bahria Orchard Phase 1",
+        "price": 60.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Lake City - Sector M-5, Lake City",
+        "price": 83.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Lake City - Sector M-3, Lake City",
+        "price": 83.0,
+        "size": 20.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block BB, State Life Housing Phase 2",
+        "price": 33.0,
+        "size": 14.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block AA, State Life Housing Phase 2",
+        "price": 33.0,
+        "size": 14.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 1 - Southern, Bahria Orchard Phase 1",
+        "price": 34.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Bahria Town - Tauheed Block, Bahria Town - Sector F",
+        "price": 50.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Town - Ghaznavi Extension, Bahria Town - Sector F",
+        "price": 32.0,
+        "size": 5.0
+    },
+    {
+        "loc": "OLC - Block B, Overseas Low Cost",
+        "price": 54.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Bahria Town - Tulip Block, Bahria Town - Sector C",
+        "price": 80.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Town - Johar Block, Bahria Town - Sector E",
+        "price": 62.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Town - Quaid Block, Bahria Town - Sector E",
+        "price": 75.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Town - Sikandar Block, Bahria Town - Sector F",
+        "price": 50.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Town - Ghazi Block, Bahria Town - Sector F",
+        "price": 45.0,
+        "size": 10.0
+    },
+    {
+        "loc": "AWT Phase 2 - Block E, AWT Phase 2",
+        "price": 90.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism, DHA Defence",
+        "price": 82.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism, DHA Defence",
+        "price": 82.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 4, Bahria Orchard",
+        "price": 65.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Low Cost - Block G, Low Cost Sector",
+        "price": 26.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Al Jalil Garden - Block B, Al Jalil Garden",
+        "price": 60.5,
+        "size": 10.0
+    },
+    {
+        "loc": "Lake City, Raiwind Road",
+        "price": 60.5,
+        "size": 20.0
+    },
+    {
+        "loc": "Lake City, Raiwind Road",
+        "price": 60.5,
+        "size": 20.0
+    },
+    {
+        "loc": "Beacon House Society - Block B, Beacon House Society",
+        "price": 80.0,
+        "size": 15.0
+    },
+    {
+        "loc": "Fazaia Housing Scheme Phase 1 - Block B, Fazaia Housing Scheme Phase 1",
+        "price": 74.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Shadman Enclave, Lahore",
+        "price": 17.5,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block Y, DHA Phase 7",
+        "price": 17.5,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 1 - Southern, Bahria Orchard Phase 1",
+        "price": 34.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Lake City - Sector M-3, Lake City",
+        "price": 34.0,
+        "size": 20.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block BB, State Life Housing Phase 2",
+        "price": 33.0,
+        "size": 14.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block AA, State Life Housing Phase 2",
+        "price": 33.0,
+        "size": 14.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 1 - Southern, Bahria Orchard Phase 1",
+        "price": 34.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Bahria Town - Tauheed Block, Bahria Town - Sector F",
+        "price": 50.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Bahria Town - Ghazi Block, Bahria Town - Sector F",
+        "price": 45.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 3, DHA Defence",
+        "price": 45.0,
+        "size": 20.0
+    },
+    {
+        "loc": "OLC - Block A, Overseas Low Cost",
+        "price": 28.5,
+        "size": 5.0
+    },
+    {
+        "loc": "AWT Phase 2 - Block F, AWT Phase 2",
+        "price": 56.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 8 - Block T, DHA Phase 8",
+        "price": 56.0,
+        "size": 20.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 2, Bahria Orchard",
+        "price": 32.5,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block T, DHA Phase 7",
+        "price": 32.5,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 8 - Block U, DHA Phase 8",
+        "price": 32.5,
+        "size": 20.0
+    },
+    {
+        "loc": "Bahria Town - Tipu Sultan Block, Bahria Town - Sector F",
+        "price": 32.0,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 6 - Block D, DHA Phase 6",
+        "price": 32.0,
+        "size": 20.0
+    },
+    {
+        "loc": "OLC - Block A, Overseas Low Cost",
+        "price": 23.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Low Cost - Block J, Low Cost Sector",
+        "price": 31.0,
+        "size": 8.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 2, Bahria Orchard",
+        "price": 44.0,
+        "size": 8.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block J, DHA Phase 9 Prism",
+        "price": 42.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Al-Noor Orchard, Lahore - Jaranwala Road",
+        "price": 25.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Al-Noor Orchard, Lahore - Jaranwala Road",
+        "price": 16.0,
+        "size": 3.0
+    },
+    {
+        "loc": "DHA 11 Rahbar Phase 2 - Block H, DHA 11 Rahbar Phase 2",
+        "price": 58.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Wapda Town Phase 1 - Block D2, Wapda Town Phase 1",
+        "price": 58.0,
+        "size": 40.0
+    },
+    {
+        "loc": "Bahria Orchard Phase 1 - Central, Bahria Orchard Phase 1",
+        "price": 60.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Lake City - Sector M-5, Lake City",
+        "price": 83.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Paragon City, Lahore",
+        "price": 67.0,
+        "size": 10.0
+    },
+    {
+        "loc": "Khayaban-e-Amin - Block N, Khayaban-e-Amin",
+        "price": 22.0,
+        "size": 5.0
+    },
+    {
+        "loc": "State Life Phase 2 - Block FF, State Life Housing Phase 2",
+        "price": 16.5,
+        "size": 3.5
+    },
+    {
+        "loc": "State Life Phase 2 - Block JJ, State Life Housing Phase 2",
+        "price": 31.0,
+        "size": 14.0
+    },
+    {
+        "loc": "Bahria Town - Talha Block, Bahria Town - Sector E",
+        "price": 30.0,
+        "size": 5.0
+    },
+    {
+        "loc": "Bahria Town - Overseas B, Bahria Town - Overseas Enclave",
+        "price": 60.0,
+        "size": 7.0
+    },
+    {
+        "loc": "DHA 9 Town, DHA Defence",
+        "price": 63.0,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 7 - Block Y, DHA Phase 7",
+        "price": 63.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block P, DHA Phase 9 Prism",
+        "price": 63.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block R, DHA Phase 9 Prism",
+        "price": 43.0,
+        "size": 5.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block R, DHA Phase 9 Prism",
+        "price": 93.0,
+        "size": 10.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block H, DHA Phase 9 Prism",
+        "price": 93.0,
+        "size": 20.0
+    },
+    {
+        "loc": "DHA Phase 9 Prism - Block H, DHA Phase 9 Prism",
+        "price": 93.0,
+        "size": 20.0
+    }
+]
