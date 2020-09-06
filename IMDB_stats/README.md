@@ -3,4 +3,5 @@ This scraper is build in Python using Beautiful Soup. It fetches the stats of to
 ## Libraries Required
 
 -> Requests
+
 -> Beautiful Soup
